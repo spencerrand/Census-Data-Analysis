@@ -1,3 +1,7 @@
+Resources
+/Resources
+Resources/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,4 +103,3 @@ ENV/
 
 # mypy
 .mypy_cache/
- 2016_ACS_Code_Lists.pdf *.html
